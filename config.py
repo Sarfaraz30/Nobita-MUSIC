@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","NOBI7A")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Saif_xd_30")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "NOBITAMUSIXBOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "NOBITA")
+BOT_NAME = getenv("BOT_NAME" , "MusicBot")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "KHWAAISH_HOON")
 # ---------------------------------------------------------
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/About_Nobi")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/About_Nobi")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Cw_DPz_world_01")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Cw_DPz_world_01")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
